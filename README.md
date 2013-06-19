@@ -14,3 +14,5 @@ Below is a list of the IC's I used building this project, that are referenced in
 - Shift Registers - ON Semiconductor MC74HC595ANGOS-ND 
 
 Keep in mind, the code as featured, will use almost every pin on the Arduino Mega. If this is a beginner project, you may want to comb the code and create a 16 step version instead of a 32. After reviewing the code, you will notice a lot is repeated to create the single, dual and quad sequencers. Hope you find this useful.
+
+**The Bounce.h and Bounce.cpp files must go in your "libraries" directory where your Arduino files are saved**
