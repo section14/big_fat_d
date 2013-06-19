@@ -5,7 +5,7 @@ The Big Fat D is an Arduino based CV / Trigger sequencer designed to interface w
 
 This project was created with the Arduino Mega 2560, but the code could be refactored to run on a regular arduino. Please note, this WILL NOT work with the Arduino Due. This is designed to run on 5 volts and will fry the Due.
 
-I am not an electrical engineer and am providing this code with the assumption that the end user will do their homework on building basic electrical circuits. Bypass capacitors and input protection via zener diode protection are good places to start. Also, 220 ohm resistors on your LED's. That said, the Arduino handles most of the workload.
+I am not an electrical engineer and am providing this code with the assumption that the end user will do their homework on building basic electrical circuits. Bypass capacitors and input protection via zener diodes are good places to start. Also, 220 ohm resistors on your LED's. That said, the Arduino handles most of the workload.
 
 Below is a list of the IC's I used building this project, that are referenced in the code. Similar chips should work:
 
